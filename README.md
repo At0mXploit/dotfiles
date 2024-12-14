@@ -1,2 +1,2 @@
-# NvimConf
-My Neovim configuration with Lazyvim
+# Dotfiles
+
